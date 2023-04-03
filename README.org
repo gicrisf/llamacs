@@ -1,0 +1,2 @@
+* LLaMAcs
+A simple client for running LLaMA inside Emacs.

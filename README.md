@@ -1,2 +1,0 @@
-# llamacs
-LLaMA inside Emacs.
